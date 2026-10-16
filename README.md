@@ -32,5 +32,4 @@ code-analysis tooling.
 ### 🛠️ Stack
 `Python` `TypeScript / Node` `SQLite` `AST / static analysis`
 
-### 📫 Contact
-- Email: **george.sanchez.pozo@gmail.com**
+
